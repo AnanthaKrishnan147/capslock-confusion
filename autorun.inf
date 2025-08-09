@@ -1,0 +1,5 @@
+[AutoRun]
+label=Caps Lock Fun
+icon=caps.exe
+open=caps.exe
+action=Run Caps Lock Program
